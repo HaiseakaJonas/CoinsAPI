@@ -1,0 +1,4 @@
+name: CoinsAPI
+version: 1.0.0
+main: de.haise.coinsapi.CoinsAPI
+author: haisexd
